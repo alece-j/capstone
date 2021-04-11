@@ -1,3 +1,0 @@
-# Everything in addition to production requirements
-
--r prod.txt
