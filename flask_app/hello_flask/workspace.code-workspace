@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Flask",
+			"path": ".."
+		},
+		{
+			"name": "hello_flask copy",
+			"path": "../../../../../.Trash/hello_flask copy"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
