@@ -1,3 +1,5 @@
+#inpsiration from https://github.com/nachi-hebbar/Forest-Fire-Prediction-Website
+
 from flask import Flask, request, jsonify
 from sutta_model import most_similar #Importing engine function
 import pandas as pd

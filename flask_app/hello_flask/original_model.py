@@ -1,3 +1,5 @@
+#help from https://medium.com/@MAbdElRaouf/simple-content-based-recommendation-engine-flask-api-heroku-dd27760dfe8e
+
 import pandas as pd
 import numpy as np
 
